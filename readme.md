@@ -18,3 +18,21 @@ mineração, edição, revisão, publicação, métricas e viabilidade financeir
 - Checkout externo: Hotmart
 
 ## Estrutura
+/  (raiz do branch publicado)
+├── index.html
+├── capaclipador.png
+├── robots.txt
+├── sitemap.xml
+└── readme.md
+
+
+## Manutenção
+
+- Atualize `lastmod` no `sitemap.xml` a cada alteração de conteúdo.
+- Mantenha `canonical` e `og:url` apontando para a URL final publicada.
+- Revise os schemas `FAQPage` e `Product` sempre que o preço ou as perguntas mudarem.
+
+## Aviso
+
+Produto independente. Não promete resultado financeiro; a meta de USD 1.000/mês é
+cenário de planejamento.
